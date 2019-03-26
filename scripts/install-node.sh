@@ -23,7 +23,7 @@ function boolean() {
 
 # Script Variables
 _host=$( cat /etc/hostname )
-_version="0.12.6.0"
+_version="0.12.6.1"
 _folder="stashcore-${_version}-x86_64-linux-gnu"
 _binaries="${_folder}.tar.gz"
 _gitUser="beachm"
